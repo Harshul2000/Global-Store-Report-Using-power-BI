@@ -2,7 +2,7 @@ This is a detailed analytical report which I have created using Microsoft Power 
 
 
 
-  <img src="Data/Screenshot 2022-12-10 203828.png" height="240" >
+  <img src="data/Screenshot 2023-02-18 130256.png" height="240" >
 
 
 
@@ -12,4 +12,4 @@ This is a detailed analytical report which I have created using Microsoft Power 
 ## Requirements
 * DAX
 * Microsoft Power BI
-*Microsoft Exce'
+*Microsoft Excel
