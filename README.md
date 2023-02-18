@@ -1,4 +1,4 @@
-This is a detailed analytical report which I have created using Microsoft Power BI.
+This is a detailed analytical report which I have created using Microsoft Power BI.I have worked on a databases of a product table which has various sections like region,market,segment,customer name,customer ID, etc and created this report.
 
 
 
@@ -12,4 +12,4 @@ This is a detailed analytical report which I have created using Microsoft Power 
 ## Requirements
 * DAX
 * Microsoft Power BI
-*Microsoft Excel
+* Microsoft Excel
